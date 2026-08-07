@@ -20,6 +20,27 @@
 - 🚀 Interested in using AI and data to solve real-world problems
 
 ---
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="profile/github-snake.svg" width="100%">
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnshuChourasia&theme=tokyonight&hide_border=true">
+</p>
 
 ## 🤖 What I'm Building
 
