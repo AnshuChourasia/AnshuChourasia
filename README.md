@@ -26,6 +26,11 @@
 - 🚀 Interested in using AI and data to solve real-world problems
 
 ---
+<h2 align="center">📊 My GitHub Contributions</h2>
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</p>
 
 ## 🚀 What I'm Building
 
