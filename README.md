@@ -131,9 +131,9 @@ SQL queries
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnshuChourasia&show_icons=true&hide_border=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuChourasia&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
 
 </div>
 
@@ -141,7 +141,7 @@ SQL queries
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AnshuChourasia&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -149,7 +149,7 @@ SQL queries
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/AnshuChourasia/AnshuChourasia/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
 </div>
 
