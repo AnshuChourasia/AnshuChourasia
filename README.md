@@ -2,13 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Anshu%20Chourasia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-# 👋 Hi, I'm Anshu
+<div align="center">
 
-### 🧬 Biology × 📊 Data Science × 🤖 AI/ML
+# ✨ ANSHU CHOURASIA
 
-**Building at the intersection of biology, data and intelligent automation.**
+### AI/ML Developer • Data Science • Bioinformatics
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Biology+Student+%F0%9F%A7%AC;Data+Science+Enthusiast+%F0%9F%93%8A;Machine+Learning+Learner+%F0%9F%A4%96;Building+an+AI+Work+Agent+%F0%9A%80;Future+Data+Scientist+for+Biology+%F0%9F%A7%AC" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+systems+%F0%9F%A4%96;Exploring+Machine+Learning+%F0%9F%A7%A0;Turning+Data+into+Intelligence+%F0%9F%93%8A;Biology+%C3%97+AI+%3D+My+Space+%F0%9F%94%AC" alt="Typing SVG" />
+</p>
 
 </div>
 
