@@ -40,6 +40,15 @@
     <img src="profile/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
   </picture>
 </p>
+---
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnshuChourasia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 🚀 What I'm Building
 
