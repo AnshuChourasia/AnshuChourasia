@@ -31,6 +31,15 @@
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </p>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile/github-snake.svg">
+    <img src="profile/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
+  </picture>
+</p>
 
 ## 🚀 What I'm Building
 
